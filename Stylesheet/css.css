@@ -1,0 +1,46 @@
+h1 {
+    
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+p {
+    margin-inline-end: 0%;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 0px;
+    font-size: 20px;
+    color: blue;
+    border-style: solid;
+    border-style; color: black;
+}
+
+button {
+    
+    cursor:pointer;
+    color: black;
+    border-width: 2px;
+    border-color: black;
+    border-style: dotted;
+}
+body {
+    border-image: fill;
+    background-color: yellow;
+    
+}
+
+img {
+    border-radius: 50%;
+    width: 400px;
+    border-style: solid;
+    cursor: pointer;
+}
+#Elden {
+    background-image:url(/image/Elden.jpg) 
+}
+#i1{
+    border-style: solid;
+    padding 7px:
+
+}
+
